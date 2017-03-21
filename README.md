@@ -1,4 +1,4 @@
-To use this project, you must download Locust from https://locustio.com.
+To use this project, you must download Locust from http://locust.io.
 
 The test file causes Locust to use a random domain name of the kind 
 testdomain####.com where #### is a randomly picked integer from 1 to 3000.
